@@ -1,41 +1,66 @@
 # Higgsfield AI YouTube Skills & Playbooks
 
-A curated collection of **agent-ready playbooks** extracted from the official [Higgsfield AI](https://www.youtube.com/@HiggsfieldAI) YouTube channel tutorials.
+**Curated by [Nick Automations](https://nickautomations.com)**  
+Agent-ready playbooks extracted from the official [Higgsfield AI](https://www.youtube.com/@HiggsfieldAI) YouTube channel.
 
-These playbooks are designed so that an AI agent (Claude, Cursor, Codex, etc.) can read a single Markdown file and fully recreate the workflows shown in the videos — including skill installation, exact prompts, step-by-step execution, and key technical learnings.
+These playbooks are built so that an AI agent (Claude, Cursor, Codex, or any capable coding agent) can read a single Markdown file and fully recreate the workflows shown in the videos — including skill installation, exact prompts, step-by-step execution, and key technical learnings.
+
+---
 
 ## What’s Inside
 
-Each folder corresponds to one major tutorial video and contains:
+Each folder corresponds to one major tutorial video and contains a complete **`PLAYBOOK.md`**:
 
-- **`PLAYBOOK.md`** — the main agent-ready document  
-  - Final result description  
-  - Skill installation steps  
-  - Complete copyable prompt library  
-  - Ordered recreation playbook for AI agents  
-  - Key learnings & replication notes  
-  - Source links
+- Final result description
+- Skill installation steps
+- Complete copyable prompt library
+- Ordered recreation playbook written for AI agents
+- Key learnings & replication notes
+- Original source links
 
-- Supporting extraction notes (where available)
+### Available Playbooks
+
+| Playbook | Focus |
+|----------|-------|
+| [3-Step Ultra-Realistic AI Ads](./3-step-workflow-to-make-ultra-realistic-ai-ads/PLAYBOOK.md) | Cinematic product commercials with locked characters & locations |
+| [Faceless Niche Automation](./i-automated-this-hidden-faceless-niche-using-higgsfield-ai-claude-fable-5/PLAYBOOK.md) | Full faceless YouTube channel pipeline |
+| [Santiago Short Film](./this-is-how-i-made-an-ultra-realistic-ai-short-film-using-seedance-2-0-in-4k-full-workflow/PLAYBOOK.md) | Emotional short film with director-level control |
+| [5-Step 4K Short Films](./5-step-workflow-to-make-ultra-realistic-ai-short-films-seedance-2-0-4k/PLAYBOOK.md) | Multi-genre 1-minute Seedance 4K film |
+| [Viral Multi-World Short Film](./i-made-a-viral-ai-short-film-from-scratch-full-workflow-seedance-4k-claude-fable-5/PLAYBOOK.md) | Action-comedy across multiple worlds |
+| [Motion Design + Client Finder](./claude-fable-5-higgsfield-mcp-will-make-you-rich/PLAYBOOK.md) | Motion design system + lead generation |
+| [Content Factory / UGC Ads](./higgsfield-mcp-claude-just-changed-marketing-forever/PLAYBOOK.md) | Bulk UGC ad generation |
+| [$13k/mo AI Agency](./i-used-claude-ai-higgsfield-to-build-a-13457-mo-agency/PLAYBOOK.md) | Full AI ad agency system |
+| [$39.5k/mo Faceless Channel](./i-used-higgsfield-ai-claude-fable-5-to-build-a-39500-month-faceless-channel/PLAYBOOK.md) | High-RPM faceless channel rebuild |
+| [Cinematic Ad Workflow](./i-made-a-cinematic-ad-using-claude-fable-5-higgsfield-ai-full-workflow/PLAYBOOK.md) | Football / robots commercial |
+| [Real 3D Games](./claude-fable-5-higgsfield-mcp-can-now-build-real-3d-games/PLAYBOOK.md) | Multiplayer browser games from one-sentence prompts |
+| [Supercomputer Marketing Agency](./i-built-an-entire-marketing-agency-with-1-ai-tool/PLAYBOOK.md) | End-to-end marketing with Supercomputer |
+
+---
+
+## How to Use with an AI Agent
+
+1. Open any `PLAYBOOK.md`
+2. Tell your agent:  
+   *“Follow this playbook exactly”* or *“Recreate the workflow described here”*
+3. The agent will have the installation steps, the exact prompts, and the ordered actions needed
+
+---
 
 ## Index
 
 See [`index.json`](./index.json) for the full machine-readable list of videos, skill links, and raw description links.
 
-## Important Notes
+---
+
+## Notes
 
 - This is an independent extraction of publicly available content from Higgsfield AI video descriptions and linked blog pages.
-- Binary `.skill` files themselves are not included (they are hosted by Higgsfield). The playbooks document how to obtain and use them.
-- Prompts and workflows are preserved as accurately as possible for educational and reproducibility purposes.
+- Binary `.skill` files are not included (they are hosted by Higgsfield). The playbooks document how to obtain and use them.
 - Always respect Higgsfield’s terms of service and credit the original creators when using these workflows commercially.
-
-## How to Use with an AI Agent
-
-1. Point your agent at any `PLAYBOOK.md`
-2. Ask it to “follow this playbook exactly” or “recreate the workflow described here”
-3. The agent will have the installation steps, the exact prompts, and the ordered actions needed
 
 ---
 
-Extracted and structured for practical agent use.  
-Not affiliated with Higgsfield AI.
+**Built by [Nick Automations](https://nickautomations.com)**  
+We help founders and agencies replace manual work with reliable AI agent systems.
+
+[Website](https://nickautomations.com) · Not affiliated with Higgsfield AI.
