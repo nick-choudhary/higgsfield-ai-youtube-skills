@@ -1,22 +1,22 @@
 # Higgsfield AI YouTube Skills & Playbooks
 
 **Curated by [Nick Automations](https://nickautomations.com)**  
-Agent-ready playbooks extracted from the official [Higgsfield AI](https://www.youtube.com/@HiggsfieldAI) YouTube channel.
+Playbooks pulled from the official [Higgsfield AI](https://www.youtube.com/@HiggsfieldAI) YouTube channel.
 
-These playbooks are built so that an AI agent (Claude, Cursor, Codex, or any capable coding agent) can read a single Markdown file and fully recreate the workflows shown in the videos — including skill installation, exact prompts, step-by-step execution, and key technical learnings.
+Each playbook is written so an AI agent (Claude, Cursor, Codex, etc.) can open one Markdown file and recreate the full workflow — skill install, exact prompts, steps, and notes.
 
 ---
 
 ## What’s Inside
 
-Each folder corresponds to one major tutorial video and contains a complete **`PLAYBOOK.md`**:
+Every folder has a complete **`PLAYBOOK.md`** with:
 
-- Final result description
-- Skill installation steps
-- Complete copyable prompt library
-- Ordered recreation playbook written for AI agents
-- Key learnings & replication notes
-- Original source links
+- What the final result looks like
+- How to install the skill
+- Full copyable prompts
+- Step-by-step recreation instructions for agents
+- Key learnings
+- Source links
 
 ### Available Playbooks
 
@@ -40,23 +40,22 @@ Each folder corresponds to one major tutorial video and contains a complete **`P
 ## How to Use with an AI Agent
 
 1. Open any `PLAYBOOK.md`
-2. Tell your agent:  
-   *“Follow this playbook exactly”* or *“Recreate the workflow described here”*
-3. The agent will have the installation steps, the exact prompts, and the ordered actions needed
+2. Tell the agent: “Follow this playbook exactly” or “Recreate the workflow described here”
+3. It gets the install steps, prompts, and ordered actions
 
 ---
 
 ## Index
 
-See [`index.json`](./index.json) for the full machine-readable list of videos, skill links, and raw description links.
+See [`index.json`](./index.json) for the full list of videos, skill links, and raw description links.
 
 ---
 
 ## Notes
 
-- This is an independent extraction of publicly available content from Higgsfield AI video descriptions and linked blog pages.
-- Binary `.skill` files are not included (they are hosted by Higgsfield). The playbooks document how to obtain and use them.
-- Always respect Higgsfield’s terms of service and credit the original creators when using these workflows commercially.
+- Independent extraction of publicly available content from Higgsfield AI video descriptions and linked pages.
+- Binary `.skill` files are not included (hosted by Higgsfield). The playbooks show how to get and use them.
+- Respect Higgsfield’s terms and credit the original creators if you use these workflows commercially.
 
 ---
 
