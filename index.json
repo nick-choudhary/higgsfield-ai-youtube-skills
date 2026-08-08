@@ -2,14 +2,23 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "321K",
+    "subscribers_approx": "329K",
     "total_videos_approx": 245,
-    "scraped_at": "2026-08-05",
+    "scraped_at": "2026-08-08",
     "note": "All extracted skill-bearing videos now have a complete PLAYBOOK.md with skill install steps, copyable prompts, ordered recreation instructions for AI agents, and key learnings. This is the definitive package.",
-    "processed_skill_videos": 13,
-    "playbooks_count": 13
+    "processed_skill_videos": 14,
+    "playbooks_count": 14
   },
   "videos": [
+    {
+      "title": "I Challenged a VFX Artist to Beat AI",
+      "url": "https://www.youtube.com/watch?v=Hn8A8D4-SpQ",
+      "folder": "i-challenged-a-vfx-artist-to-beat-ai",
+      "skill_links": ["https://higgsfield.ai/s/erikchallenge-higgsfieldai-oNgHlP"],
+      "raw_links_from_description": ["https://higgsfield.ai/s/erikchallenge-higgsfieldai-oNgHlP", "https://higgsfield.ai/s/erikchallenge-higgsfieldai-QxGKBh", "https://www.youtube.com/watch?v=BRESQ8NX-us", "https://discord.gg/higgsfield", "https://x.com/higgsfield", "https://www.instagram.com/higgsfield.ai"],
+      "skill_files_extracted": ["PLAYBOOK.md"],
+      "notes": "prompt-builder-2-5.skill; AI vs traditional VFX challenge with full dragon sequence prompts and video-to-video workflow."
+    },
     {
       "title": "I Automated This Hidden Faceless Niche Using Higgsfield AI + Claude Fable 5",
       "url": "https://www.youtube.com/watch?v=Bf74TY20CrM",
