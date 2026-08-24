@@ -2,14 +2,28 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "329K",
+    "subscribers_approx": "377K",
     "total_videos_approx": 245,
-    "scraped_at": "2026-08-08",
+    "scraped_at": "2026-08-24",
     "note": "All extracted skill-bearing videos now have a complete PLAYBOOK.md with skill install steps, copyable prompts, ordered recreation instructions for AI agents, and key learnings. This is the definitive package.",
-    "processed_skill_videos": 14,
-    "playbooks_count": 14
+    "processed_skill_videos": 15,
+    "playbooks_count": 15
   },
   "videos": [
+    {
+      "title": "I Made a Viral AI Love Story (500M Views) — Steal My Prompts",
+      "url": "https://www.youtube.com/watch?v=QfylrxtQSSs",
+      "folder": "i-made-a-viral-ai-love-story-500m-views-steal-my-prompts",
+      "skill_links": ["https://higgsfield.ai/s/love-story-higgsfieldai-ZpivFY"],
+      "raw_links_from_description": [
+        "https://higgsfield.ai/s/love-story-higgsfieldai-ZpivFY",
+        "https://discord.gg/higgsfield",
+        "https://x.com/higgsfield",
+        "https://www.instagram.com/higgsfield.ai"
+      ],
+      "skill_files_extracted": ["PLAYBOOK.md"],
+      "notes": "Claude skill for Seedance 2.5 love-story prompts; hybrid face trick, scale sketches, six-era wedding film workflow."
+    },
     {
       "title": "I Challenged a VFX Artist to Beat AI",
       "url": "https://www.youtube.com/watch?v=Hn8A8D4-SpQ",
