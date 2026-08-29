@@ -2,14 +2,32 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "377K",
+    "subscribers_approx": "389K",
     "total_videos_approx": 245,
-    "scraped_at": "2026-08-24",
+    "scraped_at": "2026-08-29",
     "note": "All extracted skill-bearing videos now have a complete PLAYBOOK.md with skill install steps, copyable prompts, ordered recreation instructions for AI agents, and key learnings. This is the definitive package.",
-    "processed_skill_videos": 15,
-    "playbooks_count": 15
+    "processed_skill_videos": 16,
+    "playbooks_count": 16
   },
   "videos": [
+    {
+      "title": "How To Save AI Credits With Higgsfield + Blender (No One Talks About This Workflow)",
+      "url": "https://www.youtube.com/watch?v=OiULPvTJ-0E",
+      "folder": "how-to-save-ai-credits-with-higgsfield-blender-no-one-talks-about-this-workflow",
+      "skill_links": [
+        "https://higgsfield.ai/s/blender-plugin-higgsfieldai-lpdrbq",
+        "https://higgsfield.ai/s/blender-plugin-higgsfieldai-CFXDqV"
+      ],
+      "raw_links_from_description": [
+        "https://higgsfield.ai/s/blender-plugin-higgsfieldai-lpdrbq",
+        "https://higgsfield.ai/s/blender-plugin-higgsfieldai-CFXDqV",
+        "https://discord.gg/higgsfield",
+        "https://x.com/higgsfield",
+        "https://www.instagram.com/higgsfield.ai"
+      ],
+      "skill_files_extracted": ["PLAYBOOK.md"],
+      "notes": "Higgsfield Blender add-on + Higgsfield Bridge MCP. Block camera/timing in 3D, then Seedance 2.5 video-to-video. Five cases: one-take fight, six-person diner, viral camera moves, hypermotion soda ad, 19-shot car commercial in four styles."
+    },
     {
       "title": "I Made a Viral AI Love Story (500M Views) — Steal My Prompts",
       "url": "https://www.youtube.com/watch?v=QfylrxtQSSs",
