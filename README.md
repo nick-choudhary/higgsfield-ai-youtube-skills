@@ -22,6 +22,7 @@ Every folder has a complete **`PLAYBOOK.md`** with:
 
 | Playbook | Focus |
 |----------|-------|
+| [Fable 5.1 Motion Graphics](./claude-fable-5-1-higgsfield-ai-insane-motion-graphics/PLAYBOOK.md) | Six paid Marketing Studio styles via Claude MCP |
 | [Save Credits: Higgsfield + Blender](./how-to-save-ai-credits-with-higgsfield-blender-no-one-talks-about-this-workflow/PLAYBOOK.md) | Block camera in Blender, run Seedance 2.5 video-to-video |
 | [3-Step Ultra-Realistic AI Ads](./3-step-workflow-to-make-ultra-realistic-ai-ads/PLAYBOOK.md) | Cinematic product commercials with locked characters & locations |
 | [Faceless Niche Automation](./i-automated-this-hidden-faceless-niche-using-higgsfield-ai-claude-fable-5/PLAYBOOK.md) | Full faceless YouTube channel pipeline |
