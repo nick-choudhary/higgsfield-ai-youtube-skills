@@ -2,14 +2,34 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "389K",
+    "subscribers_approx": "403K",
     "total_videos_approx": 245,
-    "scraped_at": "2026-08-29",
+    "scraped_at": "2026-09-04",
     "note": "All extracted skill-bearing videos now have a complete PLAYBOOK.md with skill install steps, copyable prompts, ordered recreation instructions for AI agents, and key learnings. This is the definitive package.",
-    "processed_skill_videos": 16,
-    "playbooks_count": 16
+    "processed_skill_videos": 17,
+    "playbooks_count": 17
   },
   "videos": [
+    {
+      "title": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
+      "url": "https://www.youtube.com/watch?v=2OwMjg5As2g",
+      "folder": "claude-fable-5-1-higgsfield-ai-insane-motion-graphics",
+      "published": "2026-09-02",
+      "skill_links": [
+        "https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-QzAGtQ",
+        "https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-KeDAEy"
+      ],
+      "raw_links_from_description": [
+        "https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-QzAGtQ",
+        "https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-KeDAEy",
+        "https://higgsfield.ai/s/general-higgsfieldai-IrjQir",
+        "https://discord.gg/higgsfield",
+        "https://x.com/higgsfield_ai",
+        "https://www.instagram.com/higgsfield.ai"
+      ],
+      "skill_files_extracted": ["PLAYBOOK.md"],
+      "notes": "motion prompt skill + Higgsfield MCP + Marketing Studio. Six paid styles: SaaS launch videos, motion on real footage, hypermotion product ads, 3D real estate flythroughs, 2D explainers, editorial explainers. Companion blog 2026-09-02."
+    },
     {
       "title": "How To Save AI Credits With Higgsfield + Blender (No One Talks About This Workflow)",
       "url": "https://www.youtube.com/watch?v=OiULPvTJ-0E",
