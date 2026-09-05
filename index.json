@@ -2,14 +2,33 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "403K",
+    "subscribers_approx": "405K",
     "total_videos_approx": 245,
-    "scraped_at": "2026-09-04",
+    "scraped_at": "2026-09-05",
     "note": "All extracted skill-bearing videos now have a complete PLAYBOOK.md with skill install steps, copyable prompts, ordered recreation instructions for AI agents, and key learnings. This is the definitive package.",
-    "processed_skill_videos": 17,
-    "playbooks_count": 17
+    "processed_skill_videos": 18,
+    "playbooks_count": 18
   },
   "videos": [
+    {
+      "title": "GPT-6 + Higgsfield AI: Build a $39K/Month Faceless Channel",
+      "url": "https://www.youtube.com/watch?v=7SZ76s-nqpQ",
+      "folder": "gpt-6-higgsfield-ai-build-a-39k-month-faceless-channel",
+      "published": "2026-09-04",
+      "skill_links": [
+        "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-sPQEqd",
+        "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-PUrlDd"
+      ],
+      "raw_links_from_description": [
+        "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-sPQEqd",
+        "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-PUrlDd",
+        "https://discord.gg/higgsfield",
+        "https://x.com/higgsfield",
+        "https://www.instagram.com/higgsfield.ai"
+      ],
+      "skill_files_extracted": ["PLAYBOOK.md"],
+      "notes": "GPT-6 Astra + ChatGPT Higgsfield plugin rebuild of the faceless channel workflow. Skills: faceless-script-writer (explainer/documentary/true crime) and faceless-video-prompts (Seedance 2.5). Companion blog 2026-09-04 plus thumbnail PDF."
+    },
     {
       "title": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
       "url": "https://www.youtube.com/watch?v=2OwMjg5As2g",
