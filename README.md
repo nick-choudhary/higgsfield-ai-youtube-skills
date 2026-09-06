@@ -22,6 +22,7 @@ Every folder has a complete **`PLAYBOOK.md`** with:
 
 | Playbook | Focus |
 |----------|-------|
+| [GPT-6 Astra One-Chat Video](./gpt-6-astra-higgsfield-mcp-made-this-entire-video-in-one-chat/PLAYBOOK.md) | Talking-head YouTube tutorial from one GPT-6 Astra + MCP chat |
 | [GPT-6 Faceless Channel](./gpt-6-higgsfield-ai-build-a-39k-month-faceless-channel/PLAYBOOK.md) | GPT-6 Astra + ChatGPT plugin faceless pipeline |
 | [Fable 5.1 Motion Graphics](./claude-fable-5-1-higgsfield-ai-insane-motion-graphics/PLAYBOOK.md) | Six paid Marketing Studio styles via Claude MCP |
 | [Save Credits: Higgsfield + Blender](./how-to-save-ai-credits-with-higgsfield-blender-no-one-talks-about-this-workflow/PLAYBOOK.md) | Block camera in Blender, run Seedance 2.5 video-to-video |
