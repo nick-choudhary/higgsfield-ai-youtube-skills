@@ -2,28 +2,40 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "408K",
+    "subscribers_approx": "423K",
     "total_videos_approx": 270,
-    "scraped_at": "2026-09-06",
+    "scraped_at": "2026-09-13",
     "note": "All extracted skill-bearing videos now have a complete PLAYBOOK.md with skill install steps, copyable prompts, ordered recreation instructions for AI agents, and key learnings. This is the definitive package.",
-    "processed_skill_videos": 19,
-    "playbooks_count": 19
+    "processed_skill_videos": 20,
+    "playbooks_count": 20
   },
   "videos": [
+    {
+      "title": "I Let Astra Run Blender + Higgsfield \u2014 5 Cinematic Scenes Built",
+      "url": "https://www.youtube.com/watch?v=vUYq38wC_xI",
+      "folder": "i-let-astra-run-blender-higgsfield-5-cinematic-scenes-built",
+      "published": "2026-09-12",
+      "skill_links": [
+        "https://higgsfield.ai/s/blender-higgsfieldai-Viyiew",
+        "https://higgsfield.ai/s/blender-higgsfieldai-zHuqyR"
+      ],
+      "raw_links_from_description": [
+        "https://higgsfield.ai/s/blender-higgsfieldai-Viyiew",
+        "https://higgsfield.ai/s/blender-higgsfieldai-zHuqyR",
+        "https://discord.gg/higgsfield",
+        "https://x.com/higgsfield",
+        "https://www.instagram.com/higgsfield.ai"
+      ],
+      "skill_files_extracted": ["PLAYBOOK.md"],
+      "notes": "GPT-6 Astra drives Blender (or 3D Jutsu) then Seedance 2.5. Five scenes: infinite droste loop, backward-through-mirror detective shot, four-location casino one-take, 66-dancer desert concert, tiny-hero vacuum commercial. Companion article 2026-09-12 with full generation prompts. No .skill zip; plugin + @higgsfield /use-blender."
+    },
     {
       "title": "GPT-6 Astra + Higgsfield MCP Made This ENTIRE Video in One Chat",
       "url": "https://www.youtube.com/watch?v=NuvA32_dmtg",
       "folder": "gpt-6-astra-higgsfield-mcp-made-this-entire-video-in-one-chat",
       "published": "2026-09-06",
-      "skill_links": [
-        "https://higgsfield.ai/s/astra-6-higgsfieldai-SkClBI"
-      ],
-      "raw_links_from_description": [
-        "https://higgsfield.ai/s/astra-6-higgsfieldai-SkClBI",
-        "https://discord.gg/higgsfield",
-        "https://x.com/higgsfield",
-        "https://www.instagram.com/higgsfield.ai"
-      ],
+      "skill_links": ["https://higgsfield.ai/s/astra-6-higgsfieldai-SkClBI"],
+      "raw_links_from_description": ["https://higgsfield.ai/s/astra-6-higgsfieldai-SkClBI", "https://discord.gg/higgsfield", "https://x.com/higgsfield", "https://www.instagram.com/higgsfield.ai"],
       "skill_files_extracted": ["PLAYBOOK.md"],
       "notes": "GPT-6 Astra + Higgsfield MCP one-chat YouTube tutorial. Talking head from the host's own face and voice. After Effects templates + DaVinci Resolve finish. Description only published the MCP connection guide; no separate SKILL.md."
     },
@@ -32,17 +44,8 @@
       "url": "https://www.youtube.com/watch?v=7SZ76s-nqpQ",
       "folder": "gpt-6-higgsfield-ai-build-a-39k-month-faceless-channel",
       "published": "2026-09-04",
-      "skill_links": [
-        "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-sPQEqd",
-        "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-PUrlDd"
-      ],
-      "raw_links_from_description": [
-        "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-sPQEqd",
-        "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-PUrlDd",
-        "https://discord.gg/higgsfield",
-        "https://x.com/higgsfield",
-        "https://www.instagram.com/higgsfield.ai"
-      ],
+      "skill_links": ["https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-sPQEqd", "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-PUrlDd"],
+      "raw_links_from_description": ["https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-sPQEqd", "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-PUrlDd", "https://discord.gg/higgsfield", "https://x.com/higgsfield", "https://www.instagram.com/higgsfield.ai"],
       "skill_files_extracted": ["PLAYBOOK.md"],
       "notes": "GPT-6 Astra + ChatGPT Higgsfield plugin rebuild of the faceless channel workflow. Skills: faceless-script-writer (explainer/documentary/true crime) and faceless-video-prompts (Seedance 2.5). Companion blog 2026-09-04 plus thumbnail PDF."
     },
@@ -51,18 +54,8 @@
       "url": "https://www.youtube.com/watch?v=2OwMjg5As2g",
       "folder": "claude-fable-5-1-higgsfield-ai-insane-motion-graphics",
       "published": "2026-09-02",
-      "skill_links": [
-        "https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-QzAGtQ",
-        "https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-KeDAEy"
-      ],
-      "raw_links_from_description": [
-        "https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-QzAGtQ",
-        "https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-KeDAEy",
-        "https://higgsfield.ai/s/general-higgsfieldai-IrjQir",
-        "https://discord.gg/higgsfield",
-        "https://x.com/higgsfield_ai",
-        "https://www.instagram.com/higgsfield.ai"
-      ],
+      "skill_links": ["https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-QzAGtQ", "https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-KeDAEy"],
+      "raw_links_from_description": ["https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-QzAGtQ", "https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-KeDAEy", "https://higgsfield.ai/s/general-higgsfieldai-IrjQir", "https://discord.gg/higgsfield", "https://x.com/higgsfield_ai", "https://www.instagram.com/higgsfield.ai"],
       "skill_files_extracted": ["PLAYBOOK.md"],
       "notes": "motion prompt skill + Higgsfield MCP + Marketing Studio. Six paid styles: SaaS launch videos, motion on real footage, hypermotion product ads, 3D real estate flythroughs, 2D explainers, editorial explainers. Companion blog 2026-09-02."
     },
@@ -70,31 +63,17 @@
       "title": "How To Save AI Credits With Higgsfield + Blender (No One Talks About This Workflow)",
       "url": "https://www.youtube.com/watch?v=OiULPvTJ-0E",
       "folder": "how-to-save-ai-credits-with-higgsfield-blender-no-one-talks-about-this-workflow",
-      "skill_links": [
-        "https://higgsfield.ai/s/blender-plugin-higgsfieldai-lpdrbq",
-        "https://higgsfield.ai/s/blender-plugin-higgsfieldai-CFXDqV"
-      ],
-      "raw_links_from_description": [
-        "https://higgsfield.ai/s/blender-plugin-higgsfieldai-lpdrbq",
-        "https://higgsfield.ai/s/blender-plugin-higgsfieldai-CFXDqV",
-        "https://discord.gg/higgsfield",
-        "https://x.com/higgsfield",
-        "https://www.instagram.com/higgsfield.ai"
-      ],
+      "skill_links": ["https://higgsfield.ai/s/blender-plugin-higgsfieldai-lpdrbq", "https://higgsfield.ai/s/blender-plugin-higgsfieldai-CFXDqV"],
+      "raw_links_from_description": ["https://higgsfield.ai/s/blender-plugin-higgsfieldai-lpdrbq", "https://higgsfield.ai/s/blender-plugin-higgsfieldai-CFXDqV", "https://discord.gg/higgsfield", "https://x.com/higgsfield", "https://www.instagram.com/higgsfield.ai"],
       "skill_files_extracted": ["PLAYBOOK.md"],
       "notes": "Higgsfield Blender add-on + Higgsfield Bridge MCP. Block camera/timing in 3D, then Seedance 2.5 video-to-video. Five cases: one-take fight, six-person diner, viral camera moves, hypermotion soda ad, 19-shot car commercial in four styles."
     },
     {
-      "title": "I Made a Viral AI Love Story (500M Views) — Steal My Prompts",
+      "title": "I Made a Viral AI Love Story (500M Views) \u2014 Steal My Prompts",
       "url": "https://www.youtube.com/watch?v=QfylrxtQSSs",
       "folder": "i-made-a-viral-ai-love-story-500m-views-steal-my-prompts",
       "skill_links": ["https://higgsfield.ai/s/love-story-higgsfieldai-ZpivFY"],
-      "raw_links_from_description": [
-        "https://higgsfield.ai/s/love-story-higgsfieldai-ZpivFY",
-        "https://discord.gg/higgsfield",
-        "https://x.com/higgsfield",
-        "https://www.instagram.com/higgsfield.ai"
-      ],
+      "raw_links_from_description": ["https://higgsfield.ai/s/love-story-higgsfieldai-ZpivFY", "https://discord.gg/higgsfield", "https://x.com/higgsfield", "https://www.instagram.com/higgsfield.ai"],
       "skill_files_extracted": ["PLAYBOOK.md"],
       "notes": "Claude skill for Seedance 2.5 love-story prompts; hybrid face trick, scale sketches, six-era wedding film workflow."
     },
@@ -144,7 +123,7 @@
       "notes": ""
     },
     {
-      "title": "I Made a Viral AI Short Film From Scratch — Full Workflow (Seedance 4K + Claude Fable 5)",
+      "title": "I Made a Viral AI Short Film From Scratch \u2014 Full Workflow (Seedance 4K + Claude Fable 5)",
       "url": "https://www.youtube.com/watch?v=CHHH8tNioSc",
       "folder": "i-made-a-viral-ai-short-film-from-scratch-full-workflow-seedance-4k-claude-fable-5",
       "skill_links": [],
