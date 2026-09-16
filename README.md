@@ -22,6 +22,7 @@ Every folder has a complete **`PLAYBOOK.md`** with:
 
 | Playbook | Focus |
 |----------|-------|
+| [GPT-6 Astra Meta Ads (13.5 ROAS)](./i-used-gpt-6-astra-to-automate-meta-ads-campaigns-13-5-roas/PLAYBOOK.md) | Astra researches audience, Higgsfield builds 5 video + 5 static ads, Astra launches and monitors |
 | [Astra Runs Blender — 5 Scenes](./i-let-astra-run-blender-higgsfield-5-cinematic-scenes-built/PLAYBOOK.md) | GPT-6 Astra blocks in Blender / 3D Jutsu, Seedance 2.5 finishes five cinematic shots |
 | [GPT-6 Astra One-Chat Video](./gpt-6-astra-higgsfield-mcp-made-this-entire-video-in-one-chat/PLAYBOOK.md) | Talking-head YouTube tutorial from one GPT-6 Astra + MCP chat |
 | [GPT-6 Faceless Channel](./gpt-6-higgsfield-ai-build-a-39k-month-faceless-channel/PLAYBOOK.md) | GPT-6 Astra + ChatGPT plugin faceless pipeline |
