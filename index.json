@@ -2,14 +2,24 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "437K",
+    "subscribers_approx": "441K",
     "total_videos_approx": 277,
-    "scraped_at": "2026-09-22",
+    "scraped_at": "2026-09-24",
     "note": "All extracted skill-bearing videos now have a complete PLAYBOOK.md with skill install steps, copyable prompts, ordered recreation instructions for AI agents, and key learnings. This is the definitive package.",
-    "processed_skill_videos": 22,
-    "playbooks_count": 22
+    "processed_skill_videos": 23,
+    "playbooks_count": 23
   },
   "videos": [
+    {
+      "title": "How To Animate a Short Film with Blender + Higgsfield (Full Breakdown)",
+      "url": "https://www.youtube.com/watch?v=reFzEtCG_m8",
+      "folder": "how-to-animate-a-short-film-with-blender-higgsfield-full-breakdown",
+      "published": "2026-09-23",
+      "skill_links": ["https://higgsfield.ai/s/higgsfield-animation-episode-1-higgsfieldanimation-cyOPRU"],
+      "raw_links_from_description": ["https://higgsfield.ai/s/higgsfield-animation-episode-1-higgsfieldanimation-cyOPRU", "https://discord.gg/higgsfield", "https://x.com/higgsfield", "https://www.instagram.com/higgsfield.ai"],
+      "skill_files_extracted": ["PLAYBOOK.md"],
+      "notes": "Higgsfield Animation episode 1. Passport Rush teaser. SOUL 2.0 stills, Photoshop hand fixes, Seedream 5.0 Pro roofless taxi, Blender previs, Seedance 2.5. Companion article 2026-09-23 by @emilywallace with Recreate boxes for girl, driver, highway, taxi sheet, roofless taxi, explosion, two-shot cop launch, Scene 8 truck squeeze, Scenes 10-11 double seatbelt, Scene 3 handles gag. No .skill zip."
+    },
     {
       "title": "GPT-6 Astra + After Effects Creates Motion Graphics in Minutes!",
       "url": "https://www.youtube.com/watch?v=W3-RIZ-Ps64",
@@ -31,7 +41,7 @@
       "notes": "GPT-6 Astra + Higgsfield plugin Meta ads loop. $1,000 test on a $44 HIGGS jersey mockup. Article ships META-ADS-CHAT.md and meta-ads-client-brief.pdf plus five video Recreate boxes and five finished static prompts. Title claims 13.5 ROAS. No .skill zip."
     },
     {
-      "title": "I Let Astra Run Blender + Higgsfield \u2014 5 Cinematic Scenes Built",
+      "title": "I Let Astra Run Blender + Higgsfield — 5 Cinematic Scenes Built",
       "url": "https://www.youtube.com/watch?v=vUYq38wC_xI",
       "folder": "i-let-astra-run-blender-higgsfield-5-cinematic-scenes-built",
       "published": "2026-09-12",
@@ -80,7 +90,7 @@
       "notes": "Higgsfield Blender add-on + Higgsfield Bridge MCP. Block camera/timing in 3D, then Seedance 2.5 video-to-video. Five cases: one-take fight, six-person diner, viral camera moves, hypermotion soda ad, 19-shot car commercial in four styles."
     },
     {
-      "title": "I Made a Viral AI Love Story (500M Views) \u2014 Steal My Prompts",
+      "title": "I Made a Viral AI Love Story (500M Views) — Steal My Prompts",
       "url": "https://www.youtube.com/watch?v=QfylrxtQSSs",
       "folder": "i-made-a-viral-ai-love-story-500m-views-steal-my-prompts",
       "skill_links": ["https://higgsfield.ai/s/love-story-higgsfieldai-ZpivFY"],
@@ -134,7 +144,7 @@
       "notes": ""
     },
     {
-      "title": "I Made a Viral AI Short Film From Scratch \u2014 Full Workflow (Seedance 4K + Claude Fable 5)",
+      "title": "I Made a Viral AI Short Film From Scratch — Full Workflow (Seedance 4K + Claude Fable 5)",
       "url": "https://www.youtube.com/watch?v=CHHH8tNioSc",
       "folder": "i-made-a-viral-ai-short-film-from-scratch-full-workflow-seedance-4k-claude-fable-5",
       "skill_links": [],
