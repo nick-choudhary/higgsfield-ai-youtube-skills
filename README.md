@@ -22,6 +22,7 @@ Every folder has a complete **`PLAYBOOK.md`** with:
 
 | Playbook | Focus |
 |----------|-------|
+| [GPT-6 Astra Edits in DaVinci Resolve](./i-let-gpt-6-astra-edit-my-entire-video-in-davinci-resolve/PLAYBOOK.md) | Astra cuts a commercial and a YouTube rebuild in Resolve, grades, syncs screencasts, builds AE graphics, cuts Shorts. Skill: yt-video-editor-skill |
 | [GPT-6 Astra + After Effects Motion Graphics](./gpt-6-astra-after-effects-creates-motion-graphics-in-minutes/PLAYBOOK.md) | Seven AE workflows via Astra + free Higgsfield plugin: product film, ASCII, SaaS, captions, illustration rigs, JP localization, 9:16 adapt |
 | [GPT-6 Astra Meta Ads (13.5 ROAS)](./i-used-gpt-6-astra-to-automate-meta-ads-campaigns-13-5-roas/PLAYBOOK.md) | Astra researches audience, Higgsfield builds 5 video + 5 static ads, Astra launches and monitors |
 | [Astra Runs Blender — 5 Scenes](./i-let-astra-run-blender-higgsfield-5-cinematic-scenes-built/PLAYBOOK.md) | GPT-6 Astra blocks in Blender / 3D Jutsu, Seedance 2.5 finishes five cinematic shots |
