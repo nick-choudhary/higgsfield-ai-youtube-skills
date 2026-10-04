@@ -2,14 +2,35 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "457K",
-    "total_videos_approx": 299,
-    "scraped_at": "2026-10-03",
-    "note": "Daily run 2026-10-03. No new long-form skill tutorials in the last 72 hours. Already-processed editing video kOoC3yhUyDQ skipped. Shorts ignored (AI Influencer, Ideogram 4.5, FLUX 3, ads, Genjutsu Restyle). Finished Originals film Anerneq (UQDM-ZigvGo, 2026-09-28) outside window and skipped.",
-    "processed_skill_videos": 24,
-    "playbooks_count": 24
+    "subscribers_approx": "459K",
+    "total_videos_approx": 301,
+    "scraped_at": "2026-10-04",
+    "note": "Daily run 2026-10-04. Added gVPZU1btFA8 (Meta ads sequel, published 2026-10-03). Skipped already-processed kOoC3yhUyDQ. Finished Originals film UQDM-ZigvGo is outside the 72-hour window.",
+    "processed_skill_videos": 25,
+    "playbooks_count": 25
   },
   "videos": [
+    {
+      "title": "This Secret AI Workflow Just Changed Meta Ads Forever!",
+      "url": "https://www.youtube.com/watch?v=gVPZU1btFA8",
+      "folder": "this-secret-ai-workflow-just-changed-meta-ads-forever",
+      "published": "2026-10-03",
+      "skill_links": [
+        "https://higgsfield.ai/s/astra-for-meta-ads-2-higgsfieldai-YhoqLx",
+        "https://higgsfield.ai/s/astra-for-meta-ads-2-higgsfieldai-csAmem"
+      ],
+      "raw_links_from_description": [
+        "https://higgsfield.ai/s/astra-for-meta-ads-2-higgsfieldai-YhoqLx",
+        "https://higgsfield.ai/s/astra-for-meta-ads-2-higgsfieldai-csAmem",
+        "https://discord.gg/higgsfield",
+        "https://x.com/higgsfield",
+        "https://www.instagram.com/higgsfield.ai/"
+      ],
+      "skill_files_extracted": [
+        "PLAYBOOK.md"
+      ],
+      "notes": "GPT-6 Astra Meta ads sequel. Article 2026-10-03 by @adilinthewildtempo. Skill file higgsfield-marketing-new.skill plus meta-ads-client-brief.pdf. Six formats: callout, review, offer for an $80 bag; quiz, case story, direct offer for services. Seedance 2.5 UGC, unpacking, hyper-motion. Clothing boxes reuse the $44 jersey set. PROOF and QUEST checks. About $100 in generations. Zips not re-hosted."
+    },
     {
       "title": "I Let GPT-6 Astra Edit My Entire Video in DaVinci Resolve!",
       "url": "https://www.youtube.com/watch?v=kOoC3yhUyDQ",
