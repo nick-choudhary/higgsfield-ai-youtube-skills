@@ -2,10 +2,10 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "459K",
+    "subscribers_approx": "461K",
     "total_videos_approx": 301,
-    "scraped_at": "2026-10-04",
-    "note": "Daily run 2026-10-04. Added gVPZU1btFA8 (Meta ads sequel, published 2026-10-03). Skipped already-processed kOoC3yhUyDQ. Finished Originals film UQDM-ZigvGo is outside the 72-hour window.",
+    "scraped_at": "2026-10-05",
+    "note": "Daily run 2026-10-05. No new skill tutorials. In-window long-form already processed: gVPZU1btFA8 (Meta ads, YouTube 1d ago, indexed published 2026-10-03) and kOoC3yhUyDQ (editing, 3d ago, published 2026-10-02). Finished Originals film UQDM-ZigvGo is 6d ago, outside the 72-hour window. Shorts ignored.",
     "processed_skill_videos": 25,
     "playbooks_count": 25
   },
@@ -114,7 +114,7 @@
       "notes": "GPT-6 Astra + Higgsfield plugin Meta ads loop. $1,000 test on a $44 HIGGS jersey mockup. Article ships META-ADS-CHAT.md and meta-ads-client-brief.pdf plus five video Recreate boxes and five finished static prompts. Title claims 13.5 ROAS. No .skill zip."
     },
     {
-      "title": "I Let Astra Run Blender + Higgsfield \u2014 5 Cinematic Scenes Built",
+      "title": "I Let Astra Run Blender + Higgsfield — 5 Cinematic Scenes Built",
       "url": "https://www.youtube.com/watch?v=vUYq38wC_xI",
       "folder": "i-let-astra-run-blender-higgsfield-5-cinematic-scenes-built",
       "published": "2026-09-12",
@@ -217,7 +217,7 @@
       "notes": "Higgsfield Blender add-on + Higgsfield Bridge MCP. Block camera/timing in 3D, then Seedance 2.5 video-to-video. Five cases: one-take fight, six-person diner, viral camera moves, hypermotion soda ad, 19-shot car commercial in four styles."
     },
     {
-      "title": "I Made a Viral AI Love Story (500M Views) \u2014 Steal My Prompts",
+      "title": "I Made a Viral AI Love Story (500M Views) — Steal My Prompts",
       "url": "https://www.youtube.com/watch?v=QfylrxtQSSs",
       "folder": "i-made-a-viral-ai-love-story-500m-views-steal-my-prompts",
       "skill_links": [
@@ -322,7 +322,7 @@
       "notes": ""
     },
     {
-      "title": "I Made a Viral AI Short Film From Scratch \u2014 Full Workflow (Seedance 4K + Claude Fable 5)",
+      "title": "I Made a Viral AI Short Film From Scratch — Full Workflow (Seedance 4K + Claude Fable 5)",
       "url": "https://www.youtube.com/watch?v=CHHH8tNioSc",
       "folder": "i-made-a-viral-ai-short-film-from-scratch-full-workflow-seedance-4k-claude-fable-5",
       "skill_links": [],
