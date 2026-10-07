@@ -2,14 +2,33 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "462K",
-    "total_videos_approx": 305,
-    "scraped_at": "2026-10-06",
-    "note": "Daily run 2026-10-06. Added uZkGA1EuIHI (Can AI Beat VFX? feat. ErikDoesVFX, 8:16, 20h ago, published 2026-10-05). Description skill link is MCP-only; no prompt pack on the landing page. Skipped already indexed gVPZU1btFA8 (2d ago) and kOoC3yhUyDQ (4d ago). Finished Originals film UQDM-ZigvGo is 7d ago, outside the 72-hour window. Shorts ignored.",
-    "processed_skill_videos": 26,
-    "playbooks_count": 26
+    "subscribers_approx": "464K",
+    "total_videos_approx": 310,
+    "scraped_at": "2026-10-07",
+    "note": "Daily run 2026-10-07. Added kFKpcCHkuPI (3-Step Workflow To Master AI Realism, 17:03, about 1h ago, published 2026-10-07). Article has higgsfield-timed-prompts.zip and full Recreate prompts. Skipped already indexed uZkGA1EuIHI (1d ago) and gVPZU1btFA8 (3d ago). Shorts ignored. Finished film UQDM-ZigvGo is 8d ago, outside the window.",
+    "processed_skill_videos": 27,
+    "playbooks_count": 27
   },
   "videos": [
+    {
+      "title": "3-Step Workflow To Master AI Realism (Full Tutorial)",
+      "url": "https://www.youtube.com/watch?v=kFKpcCHkuPI",
+      "folder": "3-step-workflow-to-master-ai-realism-full-tutorial",
+      "published": "2026-10-07",
+      "skill_links": [
+        "https://higgsfield.ai/s/delivery-ad-higgsfieldai-GxUwyO"
+      ],
+      "raw_links_from_description": [
+        "https://higgsfield.ai/s/delivery-ad-higgsfieldai-GxUwyO",
+        "https://discord.gg/higgsfield",
+        "https://x.com/higgsfield",
+        "https://www.instagram.com/higgsfield.ai"
+      ],
+      "skill_files_extracted": [
+        "PLAYBOOK.md"
+      ],
+      "notes": "Delivery ad tutorial, published 2026-10-07, 17:03. Article by @adilinthewildtempo. Skill higgsfield-timed-prompts.zip (slash /higgsfield-timed-prompts) plus Delivery-Assets-and-Prompts.zip and higgsfield-timed-prompts.md. Soul Cinema bases, Seedream 5.0 Pro corrections, Seedance 2.5 takes at 18s, 19s, and 4s. Recreate prompts copied. Zips not re-hosted. Vertical reframe and credit total named in the video description were not on the extracted cards."
+    },
     {
       "title": "Can AI Beat VFX? (feat. ErikDoesVFX)",
       "url": "https://www.youtube.com/watch?v=uZkGA1EuIHI",
