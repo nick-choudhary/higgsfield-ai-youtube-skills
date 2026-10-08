@@ -2,16 +2,16 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "464K",
-    "total_videos_approx": 310,
-    "scraped_at": "2026-10-07",
-    "note": "Daily run 2026-10-07. Added kFKpcCHkuPI (3-Step Workflow To Master AI Realism, 17:03, about 1h ago, published 2026-10-07). Article has higgsfield-timed-prompts.zip and full Recreate prompts. Skipped already indexed uZkGA1EuIHI (1d ago) and gVPZU1btFA8 (3d ago). Shorts ignored. Finished film UQDM-ZigvGo is 8d ago, outside the window.",
+    "subscribers_approx": "466K",
+    "total_videos_approx": 314,
+    "scraped_at": "2026-10-08",
+    "note": "Daily run 2026-10-08. No new long-form skill tutorials in the last 72 hours. Latest long-form remains kFKpcCHkuPI (published 2026-10-07T12:27:27Z, 17:03). YouTube title is now How to Create Ultra Realistic AI Commercials Like a Pro (Full Tutorial); folder unchanged. Skipped already indexed uZkGA1EuIHI (2026-10-05). Shorts ignored: biDzR-ExEu8, YdZbUA0JO28, pKUSkcZWdfk, aXPrQw1gfj8, aRIV7AUxRQA, UlBDRHLAfUY, WLHkKvbpm1Q, U7UP0Eq_Mm0, l5BvSCfu7jQ, zephnQwGbBE, utm1F5csc7k. Partnership promo EP5jfyCnPu8 is 2026-10-03 and has no skill pack. Finished film UQDM-ZigvGo is outside the window.",
     "processed_skill_videos": 27,
     "playbooks_count": 27
   },
   "videos": [
     {
-      "title": "3-Step Workflow To Master AI Realism (Full Tutorial)",
+      "title": "How to Create Ultra Realistic AI Commercials Like a Pro (Full Tutorial)",
       "url": "https://www.youtube.com/watch?v=kFKpcCHkuPI",
       "folder": "3-step-workflow-to-master-ai-realism-full-tutorial",
       "published": "2026-10-07",
@@ -27,7 +27,7 @@
       "skill_files_extracted": [
         "PLAYBOOK.md"
       ],
-      "notes": "Delivery ad tutorial, published 2026-10-07, 17:03. Article by @adilinthewildtempo. Skill higgsfield-timed-prompts.zip (slash /higgsfield-timed-prompts) plus Delivery-Assets-and-Prompts.zip and higgsfield-timed-prompts.md. Soul Cinema bases, Seedream 5.0 Pro corrections, Seedance 2.5 takes at 18s, 19s, and 4s. Recreate prompts copied. Zips not re-hosted. Vertical reframe and credit total named in the video description were not on the extracted cards."
+      "notes": "Delivery ad tutorial, published 2026-10-07, 17:03. Article by @adilinthewildtempo. Skill higgsfield-timed-prompts.zip (slash /higgsfield-timed-prompts) plus Delivery-Assets-and-Prompts.zip and higgsfield-timed-prompts.md. Soul Cinema bases, Seedream 5.0 Pro corrections, Seedance 2.5 takes at 18s, 19s, and 4s. Recreate prompts copied. Zips not re-hosted. Vertical reframe and credit total named in the video description were not on the extracted cards. YouTube title renamed by 2026-10-08 from 3-Step Workflow To Master AI Realism (Full Tutorial). Folder name kept."
     },
     {
       "title": "Can AI Beat VFX? (feat. ErikDoesVFX)",
@@ -152,7 +152,7 @@
       "notes": "GPT-6 Astra + Higgsfield plugin Meta ads loop. $1,000 test on a $44 HIGGS jersey mockup. Article ships META-ADS-CHAT.md and meta-ads-client-brief.pdf plus five video Recreate boxes and five finished static prompts. Title claims 13.5 ROAS. No .skill zip."
     },
     {
-      "title": "I Let Astra Run Blender + Higgsfield \u2014 5 Cinematic Scenes Built",
+      "title": "I Let Astra Run Blender + Higgsfield — 5 Cinematic Scenes Built",
       "url": "https://www.youtube.com/watch?v=vUYq38wC_xI",
       "folder": "i-let-astra-run-blender-higgsfield-5-cinematic-scenes-built",
       "published": "2026-09-12",
@@ -255,7 +255,7 @@
       "notes": "Higgsfield Blender add-on + Higgsfield Bridge MCP. Block camera/timing in 3D, then Seedance 2.5 video-to-video. Five cases: one-take fight, six-person diner, viral camera moves, hypermotion soda ad, 19-shot car commercial in four styles."
     },
     {
-      "title": "I Made a Viral AI Love Story (500M Views) \u2014 Steal My Prompts",
+      "title": "I Made a Viral AI Love Story (500M Views) — Steal My Prompts",
       "url": "https://www.youtube.com/watch?v=QfylrxtQSSs",
       "folder": "i-made-a-viral-ai-love-story-500m-views-steal-my-prompts",
       "skill_links": [
@@ -360,7 +360,7 @@
       "notes": ""
     },
     {
-      "title": "I Made a Viral AI Short Film From Scratch \u2014 Full Workflow (Seedance 4K + Claude Fable 5)",
+      "title": "I Made a Viral AI Short Film From Scratch — Full Workflow (Seedance 4K + Claude Fable 5)",
       "url": "https://www.youtube.com/watch?v=CHHH8tNioSc",
       "folder": "i-made-a-viral-ai-short-film-from-scratch-full-workflow-seedance-4k-claude-fable-5",
       "skill_links": [],
