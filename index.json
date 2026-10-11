@@ -1,1 +1,33 @@
-PLACEHOLDER
+{
+  "channel": {
+    "name": "Higgsfield AI",
+    "url": "https://www.youtube.com/@HiggsfieldAI",
+    "subscribers_approx": "471K",
+    "total_videos_approx": 318,
+    "scraped_at": "2026-10-11",
+    "note": "Daily run 2026-10-11. No new long-form skill tutorials in the last 72 hours. Latest long-form remains kFKpcCHkuPI (published 2026-10-07, listed 4 days ago). Title on channel now reads \"How To Prompt Like a Director Using Opus 5.5 + Seedance 2.5 (Full Workflow)\". All recent long-form already indexed. Shorts ignored. Streams and films outside window or previously noted.",
+    "processed_skill_videos": 27,
+    "playbooks_count": 27
+  },
+  "videos": [
+    {
+      "title": "How To Prompt Like a Director Using Opus 5.5 + Seedance 2.5 (Full Workflow)",
+      "url": "https://www.youtube.com/watch?v=kFKpcCHkuPI",
+      "folder": "3-step-workflow-to-master-ai-realism-full-tutorial",
+      "published": "2026-10-07",
+      "skill_links": [
+        "https://higgsfield.ai/s/delivery-ad-higgsfieldai-GxUwyO"
+      ],
+      "raw_links_from_description": [
+        "https://higgsfield.ai/s/delivery-ad-higgsfieldai-GxUwyO",
+        "https://discord.gg/higgsfield",
+        "https://x.com/higgsfield",
+        "https://www.instagram.com/higgsfield.ai"
+      ],
+      "skill_files_extracted": [
+        "PLAYBOOK.md"
+      ],
+      "notes": "Delivery ad tutorial, published 2026-10-07, 17:03. Article by @adilinthewildtempo. Skill higgsfield-timed-prompts.zip (slash /higgsfield-timed-prompts) plus Delivery-Assets-and-Prompts.zip and higgsfield-timed-prompts.md. Soul Cinema bases, Seedream 5.0 Pro corrections, Seedance 2.5 takes at 18s, 19s, and 4s. Recreate prompts copied. Zips not re-hosted. Vertical reframe and credit total named in the video description were not on the extracted cards. YouTube title renamed by 2026-10-08 from 3-Step Workflow To Master AI Realism (Full Tutorial). Folder name kept. Further title rename observed 2026-10-11 on channel videos page to \"How To Prompt Like a Director Using Opus 5.5 + Seedance 2.5 (Full Workflow)\". Folder name unchanged."
+    }
+  ]
+}
