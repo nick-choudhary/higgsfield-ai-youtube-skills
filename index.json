@@ -2,14 +2,35 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "471K",
-    "total_videos_approx": 318,
-    "scraped_at": "2026-10-11",
-    "note": "Daily run 2026-10-11. No new long-form skill tutorials in the last 72 hours. Latest long-form remains kFKpcCHkuPI (published 2026-10-07, listed 4 days ago). Title on channel now reads \"How To Prompt Like a Director Using Opus 5.5 + Seedance 2.5 (Full Workflow)\". All recent long-form already indexed. Shorts ignored. Streams and films outside window or previously noted.",
-    "processed_skill_videos": 27,
-    "playbooks_count": 27
+    "subscribers_approx": "473K",
+    "total_videos_approx": 319,
+    "scraped_at": "2026-10-12",
+    "note": "Daily run 2026-10-12. Processed new long-form skill tutorial rZvF_EWZoHw published 2026-10-11. Title: How to Make $3000/Month On Clipping Videos With AI (Full Workflow). Previous latest remains indexed. Shorts ignored.",
+    "processed_skill_videos": 28,
+    "playbooks_count": 28
   },
   "videos": [
+    {
+      "title": "How to Make $3000/Month On Clipping Videos With AI (Full Workflow)",
+      "url": "https://www.youtube.com/watch?v=rZvF_EWZoHw",
+      "folder": "how-to-make-3000-month-on-clipping-videos-with-ai-full-workflow",
+      "published": "2026-10-11",
+      "skill_links": [
+        "https://higgsfield.ai/s/katana-higgsfieldai-txbirb",
+        "https://higgsfield.ai/s/katana-higgsfieldai-xzsMZt"
+      ],
+      "raw_links_from_description": [
+        "https://higgsfield.ai/s/katana-higgsfieldai-txbirb",
+        "https://higgsfield.ai/s/katana-higgsfieldai-xzsMZt",
+        "https://discord.gg/higgsfield",
+        "https://x.com/higgsfield",
+        "https://www.instagram.com/higgsfield.ai"
+      ],
+      "skill_files_extracted": [
+        "PLAYBOOK.md"
+      ],
+      "notes": "Clipping and aura edit tutorial using Claude Opus 5.5 + Higgsfield Katana. Published 2026-10-11. Full prompts and assets at linked page. Zips not re-hosted. Monetization focus on client clipping offers."
+    },
     {
       "title": "How To Prompt Like a Director Using Opus 5.5 + Seedance 2.5 (Full Workflow)",
       "url": "https://www.youtube.com/watch?v=kFKpcCHkuPI",
