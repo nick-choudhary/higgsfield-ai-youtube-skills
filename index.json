@@ -2,14 +2,35 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "473K",
-    "total_videos_approx": 319,
-    "scraped_at": "2026-10-12",
-    "note": "Daily run 2026-10-12. Processed new long-form skill tutorial rZvF_EWZoHw published 2026-10-11. Title: How to Make $3000/Month On Clipping Videos With AI (Full Workflow). Previous latest remains indexed. Shorts ignored.",
-    "processed_skill_videos": 28,
-    "playbooks_count": 28
+    "subscribers_approx": "476K",
+    "total_videos_approx": 320,
+    "scraped_at": "2026-10-14",
+    "note": "Daily run 2026-10-14. Processed new long-form skill tutorial 5HYYXYYCrL4 published 2026-10-13. Title: How I Make Motion Graphics Inside Claude Motion (Opus 5.5). Previous latest remains indexed. Shorts ignored.",
+    "processed_skill_videos": 29,
+    "playbooks_count": 29
   },
   "videos": [
+    {
+      "title": "How I Make Motion Graphics Inside Claude Motion (Opus 5.5)",
+      "url": "https://www.youtube.com/watch?v=5HYYXYYCrL4",
+      "folder": "how-i-make-motion-graphics-inside-claude-motion-opus-5-5",
+      "published": "2026-10-13",
+      "skill_links": [
+        "https://higgsfield.ai/s/claudemotion-higgsfieldai-skVQgf",
+        "https://higgsfield.ai/s/claudemotion-higgsfieldai-HrEFvp"
+      ],
+      "raw_links_from_description": [
+        "https://higgsfield.ai/s/claudemotion-higgsfieldai-skVQgf",
+        "https://higgsfield.ai/s/claudemotion-higgsfieldai-HrEFvp",
+        "https://discord.gg/higgsfield",
+        "https://x.com/higgsfield",
+        "https://www.instagram.com/higgsfield.ai"
+      ],
+      "skill_files_extracted": [
+        "PLAYBOOK.md"
+      ],
+      "notes": "Claude Motion + Higgsfield MCP motion graphics tutorial. Skills higgsfield-motion-claude and higgsfield-motion-saas. Full prompts for 7 cases including launch recreation, 3D product, ASCII, and animated explainer. Zips/.skill files not re-hosted. Published 2026-10-13."
+    },
     {
       "title": "How to Make $3000/Month On Clipping Videos With AI (Full Workflow)",
       "url": "https://www.youtube.com/watch?v=rZvF_EWZoHw",
