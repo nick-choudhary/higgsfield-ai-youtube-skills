@@ -2,10 +2,10 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "476K",
-    "total_videos_approx": 320,
-    "scraped_at": "2026-10-14",
-    "note": "Daily run 2026-10-14. Processed new long-form skill tutorial 5HYYXYYCrL4 published 2026-10-13. Title: How I Make Motion Graphics Inside Claude Motion (Opus 5.5). Previous latest remains indexed. Shorts ignored.",
+    "subscribers_approx": "480K",
+    "total_videos_approx": 335,
+    "scraped_at": "2026-10-16",
+    "note": "Daily run 2026-10-16. Scanned channel videos page. Recent long-form videos (2d and 5d ago) match existing URLs 5HYYXYYCrL4 and rZvF_EWZoHw (titles updated on YouTube). No new skill-bearing tutorials in last 72 hours. Shorts ignored. No new playbooks added.",
     "processed_skill_videos": 29,
     "playbooks_count": 29
   },
@@ -29,7 +29,7 @@
       "skill_files_extracted": [
         "PLAYBOOK.md"
       ],
-      "notes": "Claude Motion + Higgsfield MCP motion graphics tutorial. Skills higgsfield-motion-claude and higgsfield-motion-saas. Full prompts for 7 cases including launch recreation, 3D product, ASCII, and animated explainer. Zips/.skill files not re-hosted. Published 2026-10-13."
+      "notes": "Claude Motion + Higgsfield MCP motion graphics tutorial. Skills higgsfield-motion-claude and higgsfield-motion-saas. Full prompts for 7 cases including launch recreation, 3D product, ASCII, and animated explainer. Zips/.skill files not re-hosted. Published 2026-10-13. YouTube title observed updated 2026-10-16 to 'Claude Opus 5.5 + Higgsfield Make Insane Motion Graphics! (Claude Motion)'."
     },
     {
       "title": "How to Make $3000/Month On Clipping Videos With AI (Full Workflow)",
@@ -50,7 +50,7 @@
       "skill_files_extracted": [
         "PLAYBOOK.md"
       ],
-      "notes": "Clipping and aura edit tutorial using Claude Opus 5.5 + Higgsfield Katana. Published 2026-10-11. Full prompts and assets at linked page. Zips not re-hosted. Monetization focus on client clipping offers."
+      "notes": "Clipping and aura edit tutorial using Claude Opus 5.5 + Higgsfield Katana. Published 2026-10-11. Full prompts and assets at linked page. Zips not re-hosted. Monetization focus on client clipping offers. YouTube title observed updated 2026-10-16 to 'Claude Opus 5.5 Can Now Make Aura Farming Edits Faster Than Ever!'."
     },
     {
       "title": "How To Prompt Like a Director Using Opus 5.5 + Seedance 2.5 (Full Workflow)",
