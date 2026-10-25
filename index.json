@@ -2,14 +2,33 @@
   "channel": {
     "name": "Higgsfield AI",
     "url": "https://www.youtube.com/@HiggsfieldAI",
-    "subscribers_approx": "484K",
-    "total_videos_approx": 341,
-    "scraped_at": "2026-10-23",
-    "note": "Daily run 2026-10-23. Scanned channel videos page. Found new skill-bearing tutorial: 5-Step Workflow: How to Make Viral AI Short Dramas (60M Views) published 2026-10-22. Processed and added playbook. Previous videos skipped. Shorts, trailers, and finished films ignored.",
-    "processed_skill_videos": 31,
-    "playbooks_count": 31
+    "subscribers_approx": "495K",
+    "total_videos_approx": 342,
+    "scraped_at": "2026-10-25",
+    "note": "Daily run 2026-10-25. Scanned channel videos page. Found new skill-bearing tutorial: The Complete AI Filmmaking Masterclass Everyone’s Missing (Full Tutorial) published 2026-10-24. Processed and added playbook. Previous videos skipped. Shorts, trailers, and finished films ignored.",
+    "processed_skill_videos": 32,
+    "playbooks_count": 32
   },
   "videos": [
+    {
+      "title": "The Complete AI Filmmaking Masterclass Everyone’s Missing (Full Tutorial)",
+      "url": "https://www.youtube.com/watch?v=wFbgrPmVXb0",
+      "folder": "the-complete-ai-filmmaking-masterclass-everyones-missing-full-tutorial",
+      "published": "2026-10-24",
+      "skill_links": [
+        "https://higgsfield.ai/s/ai-action-film-higgsfieldai-AqKXgv"
+      ],
+      "raw_links_from_description": [
+        "https://higgsfield.ai/s/ai-action-film-higgsfieldai-AqKXgv",
+        "https://discord.gg/higgsfield",
+        "https://x.com/higgsfield",
+        "https://www.instagram.com/higgsfield.ai"
+      ],
+      "skill_files_extracted": [
+        "PLAYBOOK.md"
+      ],
+      "notes": "Cinematic AI short film tutorial published 2026-10-24. Uses Claude with Higgsfield prompt skill, scene skill, fight skill, and acting skill. Seedance 2.5 and Cinema Studio. Full prompts and assets on linked page. Video elements for characters, location plates, draft-at-480p workflow, extend and relight. .skill files and binary assets not re-hosted."
+    },
     {
       "title": "5-Step Workflow: How to Make Viral AI Short Dramas (60M Views)",
       "url": "https://www.youtube.com/watch?v=cBxKZcalwkM",
